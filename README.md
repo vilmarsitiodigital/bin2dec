@@ -8,7 +8,7 @@
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/vilmarsitiodigital/bin2dec?color=%2300d8ff">
 
   <a href="https://www.linkedin.com/in/vilmarbatista/" target="_blank" rel="noopener noreferrer">
-    <img alt="Made by" src="https://img.shields.io/badge/made%20by-vilmar-blue">
+    <img alt="Made by" src="https://img.shields.io/badge/made%20by-vilmar-00d8ff">
   </a>
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/vilmarsitiodigital/bin2dec?color=%2300d8ff">
