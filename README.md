@@ -37,7 +37,7 @@
 </br>
 
 <p align="center">
-  <img alt="Bin2Dec" src="https://res.cloudinary.com/vilmarbatista/image/upload/v1615227258/Development/App-ideas/captured_ytk5dx.gif" />
+  <img width="100%" alt="Bin2Dec" src="https://res.cloudinary.com/vilmarbatista/image/upload/v1615227258/Development/App-ideas/captured_ytk5dx.gif" />
 </p>
 
 ## 👨🏼‍💻 About the project
