@@ -37,7 +37,7 @@
 </br>
 
 <p align="center">
-  <img width="554" alt="Layout" src="https://res.cloudinary.com/vilmarbatista/image/upload/v1614645225/Development/App-ideas/captured_q05t4e.gif">
+  <img alt="Layout" src="https://res.cloudinary.com/vilmarbatista/image/upload/v1614645225/Development/App-ideas/captured_q05t4e.gif" width="554px" />
 </p>
 
 ## 👨🏼‍💻 About the project
